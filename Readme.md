@@ -1,4 +1,4 @@
-### 🥁 Drum Kit — Interactive JavaScript Project
+# 🥁 Drum Kit — Interactive JavaScript Project
 
 An interactive Drum Kit built using HTML, CSS, and JavaScript.
 
@@ -37,3 +37,7 @@ Structuring small JavaScript projects cleanly
 ### Drum Kit UI (Browser Preview)
 
 ![Drum Kit Result](./screenshots/results.png)
+
+### Drum Kit Interaction (Browser Preview)
+
+![Demo](./screenshots/record.gif)
