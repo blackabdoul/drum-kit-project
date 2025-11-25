@@ -16,6 +16,27 @@ Press keys or click the drum buttons to play sounds — a fun way to practice DO
 
 🧩 Beginner-friendly file structure
 
+## 🛠️ Tech Used
+
+### Frontend
+
+- **HTML5** for markup
+- **CSS3** for styling and layout
+- **Google Fonts** for typography
+
+### JavaScript
+
+- **Event Listeners** (`click`, `keypress`)
+- **DOM Selection** using `querySelectorAll()`
+- **Audio() constructor** to load sound files
+- **Functions & Control Flow** for mapping keys → sounds
+
+### Tools
+
+- **Visual Studio Code**
+- **Live Server** for local preview
+- **Git & GitHub** for version control
+
 ## 🧠 What I Learned
 
 Handling DOM events like click and keypress
@@ -38,6 +59,6 @@ Structuring small JavaScript projects cleanly
 
 ![Drum Kit Result](./screenshots/results.png)
 
-### Drum Kit Interaction (Browser Preview)
+## 📜 License
 
-![Demo](./screenshots/record.gif)
+MIT License
